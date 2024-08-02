@@ -21,6 +21,7 @@ bitsandbytes = "^0.43.2"
 requests = "^2.32.3"
 sentencepiece = "^0.2.0"
 sentence-transformers = "^3.0.1"
+seaborn = "^0.13.2"
 
 
 [build-system]
